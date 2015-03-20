@@ -1,4 +1,4 @@
-{
+{ 
     init: function(elevators, floors) {
         // helper functions
         sendElevatorTo = function(floor) {
